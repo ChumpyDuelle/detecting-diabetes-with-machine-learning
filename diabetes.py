@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from scikit-learn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler
 
 # Opening intro text
 st.write('# Are You Concerned About Having Diabetes?')
